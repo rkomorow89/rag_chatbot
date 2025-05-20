@@ -141,7 +141,7 @@ Das System verwendet folgende Technologien und Prozesse:
    - Echtzeit-Antworten auf Produktanfragen
    - Nutzerfreundliche Chat-Oberfläche
 
-## FAISS Index Erklärung
+## FAISS Index
 
 FAISS (Facebook AI Similarity Search) ist eine Bibliothek für effiziente Ähnlichkeitssuche und Clustering von dichten Vektoren. In unserem System wird sie folgendermaßen eingesetzt:
 
@@ -173,9 +173,7 @@ Der FAISS Index wird automatisch beim Start der Anwendung geladen und für alle 
 
 2. Öffne den Browser und navigiere zu `http://localhost:5000`
 
-3. Lade eine CSV-Datei mit Produktdaten hoch (die Datei sollte Spaltenüberschriften haben)
-
-4. Stelle Fragen zu den hochgeladenen Produkten
+3. Stelle Fragen zu den hochgeladenen Produkten
 
 ## Dateistruktur
 
