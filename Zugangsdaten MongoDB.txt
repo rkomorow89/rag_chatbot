@@ -1,0 +1,3 @@
+Username: robertkomo
+Password: fIHNjDwGstbn2bBa
+Connection string: mongodb+srv://robertkomo:fIHNjDwGstbn2bBa@cluster0.ietmnjt.mongodb.net/
